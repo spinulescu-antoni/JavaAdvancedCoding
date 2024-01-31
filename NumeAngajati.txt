@@ -1,0 +1,5 @@
+Diana, 10000, 5
+Mihai, 3000, 4
+Darius, 4000, 5
+Amalia, 5000, 6
+Marius, 6000, 7
